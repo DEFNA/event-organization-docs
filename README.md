@@ -4,6 +4,27 @@ Django Events Foundation of North America
 
 This documentation aims at answering common questions organizer or future organizers have about events. DEFNA supports any Django event happening in North America as well as encourage community members to create events to share knowledge, get to know other community members, support Django related projects, etc...
 
+## Table of Contents:
+
+- Where to start?
+    - Type of events (not a definitive list but a good place to start)
+    - Who/where can I get help?
+    - Checklists to start
+- Getting people together (where and how to recruit people and what's needed)
+- Codes of Conduct (how to write one and where to get help)
+- Venues (how to scout and talk to them)
+- Sponsors (what's needed legally and how to look for them)
+- Budgeting (where to start and what to take into consideration)
+- Call For Papers (CFP - the important bits)
+- Timeline and how to plan ahead
+- Video and Audio (what does your event need)
+- In-site planning (things to take into consideration the day of)
+- Extra stuff that can be fun to add (e.g. open spaces, sprint days, after-hours inclusive events, etc...)
+- List of tools to use (for easier organization)
+- External resources (helpful links and other places that talk about similar stuff)
+    - DjangoCon US Docs
+    - PyLadies Handbook
+
 ## Office Hours
 
 These are the office hours for every board member. Feel free to contact each member between their office hours through email or you can also use our [gitter room](https://gitter.im/DEFNA/Lobby).
